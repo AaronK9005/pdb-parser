@@ -1,0 +1,2 @@
+build/*
+!build/pdb_parser.exe
